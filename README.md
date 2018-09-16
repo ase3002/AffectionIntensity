@@ -6,11 +6,11 @@ Developing an Affect Intensity Tool by Combining Lexicon and Learning Based Appr
 
 ### Prerequisites
 
-Environment: Windows
+#### Environment: Windows
 
-Hardware Specification: At least 8 GB of RAM and 50GB Space 
+#### Hardware Specification: At least 8 GB of RAM and 50GB Space 
 
-Installation 
+#### Installation 
 1.	Weka 
 2.	Python 3.7
 3.	Java
