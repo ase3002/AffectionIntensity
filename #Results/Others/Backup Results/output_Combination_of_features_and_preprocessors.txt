@@ -1,0 +1,24 @@
+[anger] 
+ 
+[WE + L] 
+Pearson correlation between EI-reg_en_anger_pred.txt and 2018-EI-reg-En-anger-test-gold.txt:	0.6677910553828845
+Pearson correlation for gold scores in range 0.5-1 between EI-reg_en_anger_pred.txt and 2018-EI-reg-En-anger-test-gold.txt:	0.5291136002809953
+ 
+[fear] 
+ 
+[WE + L] 
+Pearson correlation between EI-reg_en_fear_pred.txt and 2018-EI-reg-En-fear-test-gold.txt:	0.6330536007762294
+Pearson correlation for gold scores in range 0.5-1 between EI-reg_en_fear_pred.txt and 2018-EI-reg-En-fear-test-gold.txt:	0.4367923490698013
+ 
+[joy] 
+ 
+[WE + L] 
+Pearson correlation between EI-reg_en_joy_pred.txt and 2018-EI-reg-En-joy-test-gold.txt:	0.6402906914252439
+Pearson correlation for gold scores in range 0.5-1 between EI-reg_en_joy_pred.txt and 2018-EI-reg-En-joy-test-gold.txt:	0.4299124765331488
+ 
+[sadness] 
+ 
+[WE + L] 
+Pearson correlation between EI-reg_en_sadness_pred.txt and 2018-EI-reg-En-sadness-test-gold.txt:	0.6142956177637882
+Pearson correlation for gold scores in range 0.5-1 between EI-reg_en_sadness_pred.txt and 2018-EI-reg-En-sadness-test-gold.txt:	0.4863266910606905
+ 

@@ -1,0 +1,22 @@
+[sadness] 
+ 
+[SVM w word n grams] 
+Pearson correlation between EI-reg_en_sadness_pred.txt and 2018-EI-reg-En-sadness-test-gold.txt:	0.4104366799185255
+Pearson correlation for gold scores in range 0.5-1 between EI-reg_en_sadness_pred.txt and 2018-EI-reg-En-sadness-test-gold.txt:	0.3444310690927433
+ 
+[SVM w char n grams] 
+Pearson correlation between EI-reg_en_sadness_pred.txt and 2018-EI-reg-En-sadness-test-gold.txt:	0.3692845286441132
+Pearson correlation for gold scores in range 0.5-1 between EI-reg_en_sadness_pred.txt and 2018-EI-reg-En-sadness-test-gold.txt:	0.3203000980900278
+ 
+[WE + L] 
+Pearson correlation between EI-reg_en_sadness_pred.txt and 2018-EI-reg-En-sadness-test-gold.txt:	0.3764884927589313
+Pearson correlation for gold scores in range 0.5-1 between EI-reg_en_sadness_pred.txt and 2018-EI-reg-En-sadness-test-gold.txt:	0.2286831877055265
+ 
+[WE + L] 
+Pearson correlation between EI-reg_en_sadness_pred.txt and 2018-EI-reg-En-sadness-test-gold.txt:	0.4477619096775127
+Pearson correlation for gold scores in range 0.5-1 between EI-reg_en_sadness_pred.txt and 2018-EI-reg-En-sadness-test-gold.txt:	0.32632048293101135
+ 
+[SVM w Lexicons] 
+Pearson correlation between EI-reg_en_sadness_pred.txt and 2018-EI-reg-En-sadness-test-gold.txt:	0.5929146132806905
+Pearson correlation for gold scores in range 0.5-1 between EI-reg_en_sadness_pred.txt and 2018-EI-reg-En-sadness-test-gold.txt:	0.461700577389726
+ 
