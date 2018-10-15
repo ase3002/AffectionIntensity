@@ -20,7 +20,7 @@ Popular traditional learning algorithms such as LIBLINEAR SVM regression, random
 ## Setup
 The Results, Installation Guide and User Manual can be found in the #Documents folder
 
-## Tools used
+## Main Tools used
 - AffectiveTweets
   - Generation of features
 - WEKA  
