@@ -1,4 +1,4 @@
-﻿# NTU Final Year Project
+﻿# Developing an Affect Intensity Tool by Combining Lexicon and Learning Based Approaches
 
 
 ## Summary
