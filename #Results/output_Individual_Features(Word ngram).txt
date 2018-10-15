@@ -1,0 +1,18 @@
+[anger] 
+ 
+[SVM w word uni grams] 
+Pearson correlation between EI-reg_en_anger_pred.txt and 2018-EI-reg-En-anger-test-gold.txt:	0.4385098016372889
+Pearson correlation for gold scores in range 0.5-1 between EI-reg_en_anger_pred.txt and 2018-EI-reg-En-anger-test-gold.txt:	0.3972365492550743
+ 
+[SVM w word bi grams] 
+Pearson correlation between EI-reg_en_anger_pred.txt and 2018-EI-reg-En-anger-test-gold.txt:	0.41853579464021884
+Pearson correlation for gold scores in range 0.5-1 between EI-reg_en_anger_pred.txt and 2018-EI-reg-En-anger-test-gold.txt:	0.379152571737102
+ 
+[SVM w word tri grams] 
+Pearson correlation between EI-reg_en_anger_pred.txt and 2018-EI-reg-En-anger-test-gold.txt:	0.39674414561311366
+Pearson correlation for gold scores in range 0.5-1 between EI-reg_en_anger_pred.txt and 2018-EI-reg-En-anger-test-gold.txt:	0.366412583762703
+ 
+[SVM w word quad grams] 
+Pearson correlation between EI-reg_en_anger_pred.txt and 2018-EI-reg-En-anger-test-gold.txt:	0.3781685274659122
+Pearson correlation for gold scores in range 0.5-1 between EI-reg_en_anger_pred.txt and 2018-EI-reg-En-anger-test-gold.txt:	0.3519673765050155
+ 
